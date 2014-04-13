@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ee2aff30-956b-4aad-86c0-502b2f2ac951" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/home.html" afterPath="$PROJECT_DIR$/templates/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/ingeniousinstruments.css" afterPath="$PROJECT_DIR$/static/css/ingeniousinstruments.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ingenious/urls.py" afterPath="$PROJECT_DIR$/ingenious/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ingenious/views.py" afterPath="$PROJECT_DIR$/ingenious/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/investors.html" afterPath="$PROJECT_DIR$/templates/investors.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/upload.html" afterPath="$PROJECT_DIR$/templates/upload.html" />
     </list>
     <ignored path="ingeniousinstruments.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -21,6 +19,7 @@
     <file path="/home.html" changelist="ee2aff30-956b-4aad-86c0-502b2f2ac951" time="1397401320170" ignored="false" />
     <file path="/form.css" changelist="ee2aff30-956b-4aad-86c0-502b2f2ac951" time="1397398818567" ignored="false" />
     <file path="/ingeniousinstruments.css" changelist="ee2aff30-956b-4aad-86c0-502b2f2ac951" time="1397401368795" ignored="false" />
+    <file path="/investors.html" changelist="ee2aff30-956b-4aad-86c0-502b2f2ac951" time="1397401443422" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,7 @@
       <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="47" selection-start="1318" selection-end="1318" vertical-scroll-proportion="-2.142857">
+            <state line="30" column="0" selection-start="1281" selection-end="1350" vertical-scroll-proportion="-1.5306122">
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#2;n#form#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#2;n#form#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -71,10 +70,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="upload.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="investors.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/investors.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="0" selection-start="1198" selection-end="1527" vertical-scroll-proportion="-3.75">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="upload.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/upload.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="44" selection-start="1515" selection-end="1515" vertical-scroll-proportion="-9.666667">
+            <state line="36" column="25" selection-start="1615" selection-end="1615" vertical-scroll-proportion="0.11335012">
               <folding />
             </state>
           </provider>
@@ -89,10 +97,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ingeniousinstruments.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ingeniousinstruments.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/css/ingeniousinstruments.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="22" selection-start="139" selection-end="139" vertical-scroll-proportion="0.391924">
+            <state line="11" column="22" selection-start="139" selection-end="139" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -125,15 +133,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ingenious/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="171" column="13" selection-start="5713" selection-end="5713" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindManager">
@@ -157,11 +156,12 @@
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/ingenious/settings.py" />
         <option value="$PROJECT_DIR$/static/css/form.css" />
-        <option value="$PROJECT_DIR$/templates/upload.html" />
-        <option value="$PROJECT_DIR$/templates/home.html" />
         <option value="$PROJECT_DIR$/ingenious/urls.py" />
         <option value="$PROJECT_DIR$/ingenious/views.py" />
         <option value="$PROJECT_DIR$/static/css/ingeniousinstruments.css" />
+        <option value="$PROJECT_DIR$/templates/home.html" />
+        <option value="$PROJECT_DIR$/templates/investors.html" />
+        <option value="$PROJECT_DIR$/templates/upload.html" />
       </list>
     </option>
   </component>
@@ -601,24 +601,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/upload.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="44" selection-start="1515" selection-end="1515" vertical-scroll-proportion="-9.666667">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="47" selection-start="1318" selection-end="1318" vertical-scroll-proportion="-2.142857">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#2;n#form#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#2;n#form#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#form#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ingenious/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="50" selection-start="601" selection-end="601" vertical-scroll-proportion="0.0">
@@ -635,7 +617,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/css/ingeniousinstruments.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="22" selection-start="139" selection-end="139" vertical-scroll-proportion="0.391924">
+        <state line="11" column="22" selection-start="139" selection-end="139" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="0" selection-start="1281" selection-end="1350" vertical-scroll-proportion="-1.5306122">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#2;n#form#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#form#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#form#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/investors.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="1198" selection-end="1527" vertical-scroll-proportion="-3.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/upload.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="25" selection-start="1615" selection-end="1615" vertical-scroll-proportion="0.11335012">
           <folding />
         </state>
       </provider>
