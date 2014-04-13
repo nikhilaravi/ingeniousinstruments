@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee2aff30-956b-4aad-86c0-502b2f2ac951" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/scope.png" afterPath="$PROJECT_DIR$/static/img/scope.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/home.html" afterPath="$PROJECT_DIR$/templates/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/ingeniousinstruments.css" afterPath="$PROJECT_DIR$/static/css/ingeniousinstruments.css" />
     </list>
     <ignored path="ingeniousinstruments.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -16,8 +15,9 @@
     <file path="/upload.html" changelist="ee2aff30-956b-4aad-86c0-502b2f2ac951" time="1397398897790" ignored="false" />
     <file path="/Procfile" changelist="ee2aff30-956b-4aad-86c0-502b2f2ac951" time="1397394289150" ignored="false" />
     <file path="/a.dummy" changelist="ee2aff30-956b-4aad-86c0-502b2f2ac951" time="1397394254790" ignored="false" />
-    <file path="/home.html" changelist="ee2aff30-956b-4aad-86c0-502b2f2ac951" time="1397399550940" ignored="false" />
+    <file path="/home.html" changelist="ee2aff30-956b-4aad-86c0-502b2f2ac951" time="1397399747033" ignored="false" />
     <file path="/form.css" changelist="ee2aff30-956b-4aad-86c0-502b2f2ac951" time="1397398818567" ignored="false" />
+    <file path="/ingeniousinstruments.css" changelist="ee2aff30-956b-4aad-86c0-502b2f2ac951" time="1397399912848" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,14 +46,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="91" column="52" selection-start="3968" selection-end="3968" vertical-scroll-proportion="0.49860725">
+            <state line="309" column="26" selection-start="14210" selection-end="14210" vertical-scroll-proportion="-1.2040817">
               <folding>
-                <element signature="n#style#0;n#div#0;n#div#3;n#form#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#3;n#form#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#4;n#form#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#form#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#2;n#form#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#form#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -86,10 +86,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ingeniousinstruments.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ingeniousinstruments.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/css/ingeniousinstruments.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="22" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0">
+            <state line="15" column="22" selection-start="208" selection-end="208" vertical-scroll-proportion="0.5344418">
               <folding />
             </state>
           </provider>
@@ -155,10 +155,10 @@
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/ingenious/urls.py" />
         <option value="$PROJECT_DIR$/ingenious/settings.py" />
-        <option value="$PROJECT_DIR$/static/css/ingeniousinstruments.css" />
         <option value="$PROJECT_DIR$/static/css/form.css" />
         <option value="$PROJECT_DIR$/templates/upload.html" />
         <option value="$PROJECT_DIR$/templates/home.html" />
+        <option value="$PROJECT_DIR$/static/css/ingeniousinstruments.css" />
       </list>
     </option>
   </component>
@@ -584,13 +584,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/ingeniousinstruments.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="22" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="13" selection-start="385" selection-end="387" vertical-scroll-proportion="-13.2">
@@ -628,12 +621,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="91" column="52" selection-start="3968" selection-end="3968" vertical-scroll-proportion="0.49860725">
+        <state line="309" column="26" selection-start="14210" selection-end="14210" vertical-scroll-proportion="-1.2040817">
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#3;n#form#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#3;n#form#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#form#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#form#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#form#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#form#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/ingeniousinstruments.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="22" selection-start="208" selection-end="208" vertical-scroll-proportion="0.5344418">
+          <folding />
         </state>
       </provider>
     </entry>
