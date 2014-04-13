@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee2aff30-956b-4aad-86c0-502b2f2ac951" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/home.html" afterPath="$PROJECT_DIR$/templates/home.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/investors.html" afterPath="$PROJECT_DIR$/templates/investors.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/upload.html" afterPath="$PROJECT_DIR$/templates/upload.html" />
     </list>
@@ -70,19 +69,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="investors.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="investors.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/investors.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="0" selection-start="1198" selection-end="1527" vertical-scroll-proportion="-3.75">
+            <state line="33" column="38" selection-start="1480" selection-end="1480" vertical-scroll-proportion="0.4534005">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="upload.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="upload.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/upload.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="25" selection-start="1615" selection-end="1615" vertical-scroll-proportion="0.11335012">
+            <state line="34" column="38" selection-start="1568" selection-end="1568" vertical-scroll-proportion="-7.5">
               <folding />
             </state>
           </provider>
@@ -160,8 +159,8 @@
         <option value="$PROJECT_DIR$/ingenious/views.py" />
         <option value="$PROJECT_DIR$/static/css/ingeniousinstruments.css" />
         <option value="$PROJECT_DIR$/templates/home.html" />
-        <option value="$PROJECT_DIR$/templates/investors.html" />
         <option value="$PROJECT_DIR$/templates/upload.html" />
+        <option value="$PROJECT_DIR$/templates/investors.html" />
       </list>
     </option>
   </component>
@@ -633,16 +632,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/investors.html">
+    <entry file="file://$PROJECT_DIR$/templates/upload.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="1198" selection-end="1527" vertical-scroll-proportion="-3.75">
+        <state line="34" column="38" selection-start="1568" selection-end="1568" vertical-scroll-proportion="-7.5">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/upload.html">
+    <entry file="file://$PROJECT_DIR$/templates/investors.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="25" selection-start="1615" selection-end="1615" vertical-scroll-proportion="0.11335012">
+        <state line="33" column="38" selection-start="1480" selection-end="1480" vertical-scroll-proportion="0.4534005">
           <folding />
         </state>
       </provider>
