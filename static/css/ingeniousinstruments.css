@@ -6,5 +6,12 @@
 
 .top-padding{
 	padding-top: 40px;
+}
 
+#mc_embed_signup form {
+    background: black;
+}
+
+#mc_embed_signup .clear {
+    text-align:center;
 }
