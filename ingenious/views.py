@@ -14,3 +14,6 @@ def about(request):
 
 def upload(request):
     return render(request, 'upload.html')
+
+def investors(request):
+    return render(request, 'investors.html')

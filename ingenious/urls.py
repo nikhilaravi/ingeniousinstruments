@@ -15,6 +15,7 @@ urlpatterns = patterns('',
     url(r'^$', 'ingenious.views.home'),
     url(r'^about/', 'ingenious.views.about'),
     url(r'^upload/', 'ingenious.views.upload'),
+    url(r'^investors/', 'ingenious.views.investors'),
 
     # Uncomment the admin/doc line below to enable admin documentation:
     url(r'^admin/doc/', include('django.contrib.admindocs.urls')),
