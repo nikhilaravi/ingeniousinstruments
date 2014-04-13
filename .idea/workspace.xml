@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee2aff30-956b-4aad-86c0-502b2f2ac951" name="Default" comment="" />
+    <list default="true" id="ee2aff30-956b-4aad-86c0-502b2f2ac951" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.min .css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/home.html" afterPath="$PROJECT_DIR$/templates/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/ingeniousinstruments.css" afterPath="$PROJECT_DIR$/static/css/ingeniousinstruments.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/upload.html" afterPath="$PROJECT_DIR$/templates/upload.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="ingeniousinstruments.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="ee2aff30-956b-4aad-86c0-502b2f2ac951" time="1397391517326" ignored="false" />
     <file path="/models.py" changelist="ee2aff30-956b-4aad-86c0-502b2f2ac951" time="1397391726962" ignored="false" />
-    <file path="/settings.py" changelist="ee2aff30-956b-4aad-86c0-502b2f2ac951" time="1397391928935" ignored="false" />
+    <file path="/settings.py" changelist="ee2aff30-956b-4aad-86c0-502b2f2ac951" time="1397395642628" ignored="false" />
     <file path="/urls.py" changelist="ee2aff30-956b-4aad-86c0-502b2f2ac951" time="1397392044979" ignored="false" />
     <file path="/views.py" changelist="ee2aff30-956b-4aad-86c0-502b2f2ac951" time="1397392676014" ignored="false" />
-    <file path="/upload.html" changelist="ee2aff30-956b-4aad-86c0-502b2f2ac951" time="1397392596165" ignored="false" />
+    <file path="/upload.html" changelist="ee2aff30-956b-4aad-86c0-502b2f2ac951" time="1397398897790" ignored="false" />
     <file path="/Procfile" changelist="ee2aff30-956b-4aad-86c0-502b2f2ac951" time="1397394289150" ignored="false" />
     <file path="/a.dummy" changelist="ee2aff30-956b-4aad-86c0-502b2f2ac951" time="1397394254790" ignored="false" />
+    <file path="/home.html" changelist="ee2aff30-956b-4aad-86c0-502b2f2ac951" time="1397398641317" ignored="false" />
+    <file path="/form.css" changelist="ee2aff30-956b-4aad-86c0-502b2f2ac951" time="1397398818567" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,31 +42,22 @@
       <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ingenious/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="47" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0">
+            <state line="25" column="26" selection-start="819" selection-end="819" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wsgi.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ingenious/wsgi.py">
+      <file leaf-file-name="home.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="19" selection-start="1226" selection-end="1226" vertical-scroll-proportion="0.0">
+            <state line="35" column="38" selection-start="1489" selection-end="1489" vertical-scroll-proportion="0.5078125">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ingenious/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="41" selection-start="336" selection-end="336" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Procfile" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Procfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="28" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0">
@@ -67,8 +66,44 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="requirements.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <file leaf-file-name="upload.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/upload.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="44" selection-start="1515" selection-end="1515" vertical-scroll-proportion="-9.666667">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/css/form.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="9" selection-start="9" selection-end="9" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ingeniousinstruments.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/css/ingeniousinstruments.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="22" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/css/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="13" selection-start="385" selection-end="387" vertical-scroll-proportion="-13.2">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.min.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/css/bootstrap.min.css">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -76,15 +111,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="upload.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/upload.html">
+      <file leaf-file-name="bootstrap-theme.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/css/bootstrap-theme.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="7" selection-start="174" selection-end="174" vertical-scroll-proportion="-4.375">
-              <folding>
-                <marker date="1397392994000" expanded="true" signature="21:173" placeholder="..." />
-                <marker date="1397392994000" expanded="true" signature="28:56" placeholder="..." />
-                <marker date="1397392994000" expanded="true" signature="63:165" placeholder="..." />
-              </folding>
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -92,7 +123,7 @@
       <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ingenious/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="156" column="23" selection-start="5333" selection-end="5333" vertical-scroll-proportion="0.0">
+            <state line="171" column="13" selection-start="5713" selection-end="5713" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -117,12 +148,15 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/ingenious/models.py" />
-        <option value="$PROJECT_DIR$/ingenious/urls.py" />
         <option value="$PROJECT_DIR$/ingenious/views.py" />
-        <option value="$PROJECT_DIR$/templates/upload.html" />
-        <option value="$PROJECT_DIR$/ingenious/settings.py" />
         <option value="$PROJECT_DIR$/ingenious/wsgi.py" />
         <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/ingenious/urls.py" />
+        <option value="$PROJECT_DIR$/ingenious/settings.py" />
+        <option value="$PROJECT_DIR$/static/css/ingeniousinstruments.css" />
+        <option value="$PROJECT_DIR$/static/css/form.css" />
+        <option value="$PROJECT_DIR$/templates/upload.html" />
+        <option value="$PROJECT_DIR$/templates/home.html" />
       </list>
     </option>
   </component>
@@ -200,7 +234,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ingeniousinstruments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ingeniousinstruments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -242,6 +294,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/css" />
+      <recent name="$PROJECT_DIR$/static" />
       <recent name="$PROJECT_DIR$/js" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -467,34 +521,9 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/templates/upload.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="7" selection-start="174" selection-end="174" vertical-scroll-proportion="-4.375">
-          <folding>
-            <marker date="1397392994000" expanded="true" signature="21:173" placeholder="..." />
-            <marker date="1397392994000" expanded="true" signature="28:56" placeholder="..." />
-            <marker date="1397392994000" expanded="true" signature="63:165" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ingenious/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="47" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ingenious/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="156" column="23" selection-start="5333" selection-end="5333" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -516,6 +545,69 @@
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="28" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingenious/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="26" selection-start="819" selection-end="819" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingenious/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="171" column="13" selection-start="5713" selection-end="5713" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/ingeniousinstruments.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="22" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="13" selection-start="385" selection-end="387" vertical-scroll-proportion="-13.2">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/bootstrap-theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/form.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="9" selection-start="9" selection-end="9" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/upload.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="44" selection-start="1515" selection-end="1515" vertical-scroll-proportion="-9.666667">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="38" selection-start="1489" selection-end="1489" vertical-scroll-proportion="0.5078125">
           <folding />
         </state>
       </provider>
