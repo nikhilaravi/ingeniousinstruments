@@ -1,1 +1,1 @@
-web: gunicorn ingeniousinstruments.wsgi
+web: gunicorn ingenious.wsgi
